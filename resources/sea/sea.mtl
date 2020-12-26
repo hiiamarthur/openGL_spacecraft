@@ -1,0 +1,10 @@
+newmtl court
+illum 2
+Ka 0.00 0.00 0.00				# ambient color
+Kd 0.00 0.00 0.00				# diffuse color
+Ks 0.00 0.00 0.00				# specular color
+map_Ka court_floor_diff.jpg		# the ambient texture map
+map_Kd court_floor_diff.jpg		# the diffuse texture map
+map_Ks court_floor_spec.jpg		# specular color texture map
+Ns 32							# specular exponent
+Tf 1.00 1.00 1.00				# transmission filter
